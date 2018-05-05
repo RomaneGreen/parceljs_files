@@ -1,2 +1,2 @@
 # parceljs_files
-just testing out pacel js
+just testing out parcel js
